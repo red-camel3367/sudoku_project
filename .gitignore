@@ -172,7 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-<<<<<<< HEAD
 
 
 #personal files
@@ -181,5 +180,3 @@ sudoku_project/total.ipynb
 git.py
 git2.py
 brewery.py
-=======
->>>>>>> 97045f63d0a833c290de09092656ee2cadfff9e6
