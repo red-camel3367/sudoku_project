@@ -176,3 +176,7 @@ cython_debug/
 
 #personal files
 git_venv/
+sudoku_project/total.ipynb
+git.py
+git2.py
+brewery.py
